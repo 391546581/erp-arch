@@ -73,15 +73,19 @@ d:\life-architect\
 │       ├── entrepreneurship.md     # 【术】创业能力
 │       ├── tech-leverage.md        # 【术】技术杠杆与副业
 │       ├── mental-models.md        # 【智】底层心智模型
-│       └── character-spirit.md     # 【道】心性修炼与精神品质
+│       ├── character-spirit.md     # 【道】心性修炼与精神品质
+│       └── character-forging-protocols.md # 【道】性能锻造协议
 ├── 02-action-plans/        # 执行层：从碎片化到系统化
+│   ├── atomic-habits.md    # 【Track A】微习惯追踪器 (极简)
+│   ├── stress-response-protocol.md # 【应急】压力与崩溃应对协议
 │   ├── current-quarter.md  # 季度行动方案
 │   ├── monthly-focus.md    # 月度重点与复盘
-│   └── weekly-habits.md    # 周计划与习惯跟踪器
+│   └── weekly-habits.md    # 周计划与习惯跟踪器 (桥梁)
 ├── 03-iteration/           # 进化层：复盘、反思与迭代
 │   ├── iteration-guide.md  # 五级迭代节奏指南
 │   ├── evolution-log.md    # 认知更新与重大突破日志
 │   └── reviews/            # 历次季度/年度复盘归档
+│       └── failure-and-ego.md # 【Track B】影子档案：挫败与自我
 └── 04-resources/           # 资源层：外脑与工具
     ├── book-list.md        # 对应能力域的必读书单
     ├── mentor-network.md   # 导师模型与人脉图谱
